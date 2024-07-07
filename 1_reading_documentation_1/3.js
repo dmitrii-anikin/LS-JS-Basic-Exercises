@@ -1,0 +1,4 @@
+/*
+There is no built in method for capitalizing a string.
+
+*/
